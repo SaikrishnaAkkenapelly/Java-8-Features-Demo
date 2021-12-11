@@ -1,4 +1,4 @@
-# Java-8-Features
+# Java-8-Features-Demo
 This repo has demonstration of newly added features in Java 8
 
 Features demonstrated in this repo includes
